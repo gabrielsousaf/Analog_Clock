@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
 :root{
     --hue-color: 240;
     --first-color:hsl(var(--hue-color), 53%, 49%);
@@ -10,7 +12,7 @@
     --body-font: 'Poppins', sans-serif;
     --biggest-font-size: 3rem;
     --small-font-size:.831rem;
-    --smaller-font-size: 75rem;
+    --smaller-font-size: .75rem;
     --tiny-font-size: .625rem;
 
     --font-medium: 500;
@@ -25,13 +27,6 @@
 
 }
 
-/* VARIABLES DARK THEME */
-body.dark-theme{
-    --title-color:hsl(var(--hue-color), 12%, 95%);
-    --text-color:hsl(var(--hue-color), 12%, 75%);
-    --body-color:hsl(var(--hue-color), 10%, 16%);
-}
-
 
 @media(min-width: 968px){
     :root{
@@ -40,4 +35,11 @@ body.dark-theme{
         --smaller-font-size: .813rem;
         --tiny-font-size: .75rem;    
     }
+}
+
+/* VARIABLES DARK THEME */
+body.dark-theme{
+    --title-color:hsl(var(--hue-color), 12%, 95%);
+    --text-color:hsl(var(--hue-color), 12%, 75%);
+    --body-color:hsl(var(--hue-color), 10%, 16%);
 }
