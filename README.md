@@ -25,7 +25,7 @@
 
 ## 📝 Licença
 
-> Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+> Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
 
 https://gabrielsousaf.github.io/Analog_Clock/
