@@ -23,6 +23,11 @@
 ## ✨ Landing Page.
 > Landing Page feita para uma possivel venda de uma landing page para um escritorio de advocacia.
 
+## 📝 Licença
+
+> Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+
 https://gabrielsousaf.github.io/Analog_Clock/
 
 
